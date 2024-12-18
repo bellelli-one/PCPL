@@ -4,7 +4,7 @@ from print_result import print_result
 from cm_timer import Timer
 from gen_random import gen_random
 
-path = "data_light.json"
+path = "/home/a1/PCPL/venv2/Labs/Lab2/lab_python_fp/data_light.json"
 
 # Необходимо в переменную path сохранить путь к файлу, который был передан при запуске сценария
 

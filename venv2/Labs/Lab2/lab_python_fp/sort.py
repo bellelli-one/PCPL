@@ -1,4 +1,4 @@
-# import telebot
+
 print(*sorted(list(input().split()), key=lambda x: int(x[0:])))
 
 # bot = telebot.TeleBot("7006269357:AAH3lU40qmEfhngaQ8zUXG992obKjokWkoM")

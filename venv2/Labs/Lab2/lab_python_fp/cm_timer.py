@@ -19,8 +19,8 @@ def timer():
     print(f"time: {exc_time}")
 
 
-# with timer() as t:
-#     time.sleep(5.5)
+with timer() as t:
+    time.sleep(5.5)
 
-# with Timer() as t:
-#     time.sleep(5.5)
+with Timer() as t:
+    time.sleep(5.5)
